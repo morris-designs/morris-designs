@@ -2,7 +2,7 @@
 
 <span align="center">
   <h2></h2>
-  <code>👋🏽 Hey there, I'm Morris and I currently am a founder of Astro Labs, LLC. I've been working as a graphic designer for the past 3 years, and I taught myself everything I know. It hasn't always been easy - I've had to deal with long, stressful moments along the way. Before starting up Astro Labs, LLC, I owned a business called Morris Designs. Running my own business taught me how to work with clients and manage my own projects.</code>
+  <p>👋🏽 Hey there, I'm Morris and I currently am a founder of Astro Labs, LLC. I've been working as a graphic designer for the past 3 years, and I taught myself everything I know. It hasn't always been easy - I've had to deal with long, stressful moments along the way. Before starting up Astro Labs, LLC, I owned a business called Morris Designs. Running my own business taught me how to work with clients and manage my own projects.</p>
 
 <br><br><br><h1>👇🏽 MORE INFORMATION 👇🏽</h1><br><br>
 </span>
