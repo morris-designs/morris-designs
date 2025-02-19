@@ -7,6 +7,6 @@
 
 <h2>My Journey 🏃🏽‍♂️</h2>
 
- <p>I started out as a graphic designer with a passion for creating beautiful designs. Over time, I learned more and more about design principles, tools and techniques. I've worked on a wide range of projects, like designing logos, visual fx, and a bit of website mockup designs.
+ <p>I started out as a graphic designer with a passion for creating beautiful designs. Over time, I learned more and more about design principles, tools and techniques. I've worked on a wide range of projects, like designing logos, visual fx, and a bit of website mockup designs. Currently as of the year 2025, I have been working with Tailwind, Typescript and Javascript with creating user experiences with websites. 
 
 Through my work as a designer, I've learned that good design isn't just about making things look pretty. It's about solving problems and helping clients achieve their goals.</p>
