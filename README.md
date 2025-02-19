@@ -1,4 +1,4 @@
-<a href="https://discord.astrolabs.net"><img src="https://media.discordapp.net/attachments/866869212298739762/942293087424770048/Banner.png?ex=67b6bf53&is=67b56dd3&hm=e8941078421e32eb9ffc254c0a52755fec95092765626e9d7c16fa236885f3d5&=&format=webp&quality=lossless&width=539&height=215"></a>
+<a href="https://discord.astrolabs.net"><img src="https://cdn.discordapp.com/banners/235486248947548163/84de279fcf41bdca71b7b257e38b55b0.png?size=480&quot;"></a>
 
 <span align="center">
   <h2></h2>
