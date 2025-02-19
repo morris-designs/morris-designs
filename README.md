@@ -1,5 +1,3 @@
-<a align="center" href="https://discord.astrolabs.net"><img src="https://cdn.discordapp.com/banners/235486248947548163/84de279fcf41bdca71b7b257e38b55b0.png?size=480"></a>
-
 <span align="center">
   <h2></h2>
   <p>👋🏽 Hey there, I'm Morris and I currently am a founder of <b>Astro Labs</b>. I've been working as a graphic designer for the past 3 years, and I taught myself everything I know. It hasn't always been easy - I've had to deal with long, stressful moments along the way. Before starting up Astro Labs, LLC, I owned a business called Morris Designs. Running my own business taught me how to work with clients and manage my own projects.</p>
